@@ -1,2 +1,2 @@
 # FlyingBalls
-Send balls flying, in this VR escaperoom
+Send balls flying, in this VR escaperoom.
