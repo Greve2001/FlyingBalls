@@ -1,0 +1,3 @@
+Følgende mapper i Assests er vigtige at kigge på:
+Scenes
+Project
