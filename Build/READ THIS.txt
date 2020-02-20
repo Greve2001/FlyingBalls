@@ -1,0 +1,3 @@
+Builds'ne er lavet i testmode. Dette betyder at de ikke forbinder til en Hue Bridge. Men kun console logger det de ville sende.
+Dette gør det muligt at teste det uden at have Hue tilgængeligt.
+Vi har valgt er bygge dem sådan, til aflevering. Så vær opmærksom på det.
